@@ -1,0 +1,16 @@
+header,
+header>a{height:150px}.box,
+footer div a{text-decoration:none;background:#111519;color:#717171}
+body{font-family:'Open Sans',sans-serif;font-size:15px;background:#89699c;width:80%;margin:0 auto}
+header{background:#2f6f36;color:#7e4701}
+header a .logo{margin:15px 0 0 60px; width: 150px;}
+.header_menu{display:inline-block;right:0;margin:60px 20px 0 0;float:right}
+.box{border:0;margin:0;padding:8px;border-radius:7px}footer div a:hover,main{background:#7e4701;color:#12152e}
+.box:hover,main{padding:10px}
+main{min-height:355px; background-image: url('../png/Old_fone.jpg'); background-size: 100%;}
+main img{height:70px;width:70px}
+.leftimg{float:left;margin:7px}
+.rightimg{float:right;margin:7px}footer{background:#6bb236;color:#70757b;height:100px}
+footer img,footer>div{height:70px}footer>div{display:inline-block;margin:15px 0 10px 15px}
+footer div a{display:block;border:0;margin:2px;padding:3px;width:80px;text-align:center;border-radius:7px}
+footer .copyright{float:right;height:63px;width:138px;margin:18px 5px 0 0;background:#6bb236;padding:5px;font-size:11px;border-radius:7px}
